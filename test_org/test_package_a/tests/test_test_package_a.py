@@ -3,8 +3,6 @@ Unit and regression test for the test_package_a package.
 """
 
 # Import package, test suite, and other packages as needed
-import test_package_a
-import pytest
 import sys
 
 def test_test_package_a_imported():
